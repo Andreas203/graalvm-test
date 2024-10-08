@@ -1,0 +1,6 @@
+rootProject.name = 'Graal'
+include 'cli'
+include 'backend'
+include 'frontend'
+include 'functionality'
+
